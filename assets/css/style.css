@@ -69,6 +69,7 @@ ul {
     width: 68%;
     line-height: -4rem
 }
+.pintoMati{margin-top: 20px;}
 
 .navImg {
     width: 30%;
@@ -1714,8 +1715,8 @@ body.loaded .preloader {
         top: -5rem;
         right: 100%;
         overflow: hidden !important;
-        background: #9341d4;
-        background: linear-gradient(45deg, #9341d4 0%, #d98efb 100%);
+        background: #ff7800;
+        background: linear-gradient(0deg, #ff7800 0%, #ff9e47 50%, #ff7800 100%);
         -webkit-transition: all .25s ease;
         transition: all .25s ease;
         padding-top: 15%
