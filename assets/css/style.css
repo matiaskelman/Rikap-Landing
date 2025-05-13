@@ -1451,6 +1451,11 @@ ul {
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%)
 }
+@media (max-width: 600px){
+    .preloader img {
+     width: 75%;
+    }
+}
 
 body.loaded .preloader {
     -webkit-transform: translateY(-100%);
